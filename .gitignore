@@ -1,0 +1,10 @@
+*
+!*.*
+.vscode
+*.exe
+*.doc
+*.docx
+*.pdf
+cmake-build-debug
+.DS_Store
+.idea
